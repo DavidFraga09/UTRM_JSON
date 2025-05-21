@@ -1,0 +1,714 @@
+{
+    "universidad": {
+        "nombre": "Universidad Tecnológica de la Riviera Maya",
+        "direccion": {
+            "calle": "Avenida Universidades",
+            "codigoPostal": "77710",
+            "ciudad": "Playa del Carmen",
+            "estado": "Quintana Roo",
+            "pais": "México"
+        },
+        "carreras": {
+            "TSU": [
+                {
+                    "nombre": "Técnico Superior Universitario en Administración",
+                    "grupos": [
+                        {
+                            "grupo": "AD-11",
+                            "cuatrimestre": 1,
+                            "materias": [
+                                "Inglés I",
+                                "Desarrollo humano y valores",
+                                "Fundamentos matemáticos",
+                                "Contabilidad I",
+                                "Fundamentos de administración",
+                                "Marco legal de las organizaciones",
+                                "Comunicación y habilidades digitales"
+                            ]
+                        },
+                        {
+                            "grupo": "AD-21",
+                            "cuatrimestre": 2,
+                            "materias": [
+                                "Inglés II",
+                                "Habilidades socioemocionales y manejo de conflictos",
+                                "Probabilidad y estadística",
+                                "Contabilidad II",
+                                "Planeación estratégica",
+                                "Microeconomía",
+                                "Derecho corporativo"
+                            ]
+                        },
+                        {
+                            "grupo": "AD-31",
+                            "cuatrimestre": 3,
+                            "materias": [
+                                "Inglés III",
+                                "Desarrollo del pensamiento y toma de decisiones",
+                                "Fundamentos de mercadotecnia",
+                                "Análisis financiero",
+                                "Fundamentos de calidad",
+                                "Macroeconomía",
+                                "Proyecto integrador I"
+                            ]
+                        },
+                        {
+                            "grupo": "AD-41",
+                            "cuatrimestre": 4,
+                            "materias": [
+                                "Inglés IV",
+                                "Ética profesional",
+                                "Gestión del capital humano",
+                                "Integración del capital humano",
+                                "Comportamiento organizacional",
+                                "Sueldos y salarios I",
+                                "Legislación laboral"
+                            ]
+                        },
+                        {
+                            "grupo": "AD-51",
+                            "cuatrimestre": 5,
+                            "materias": [
+                                "Inglés V",
+                                "Liderazgo de equipos de alto desempeño",
+                                "Desarrollo del capital humano",
+                                "Seguridad e higiene laboral",
+                                "Desarrollo organizacional",
+                                "Sueldos y salarios II",
+                                "Proyecto integrador II"
+                            ]
+                        },
+                        {
+                            "grupo": "AD-61",
+                            "cuatrimestre": 6,
+                            "materias": [
+                                "Estadía en Técnico Superior Universitario en Gestión del Capital Humano"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Técnico Superior Universitario en Desarrollo de Software Multiplataforma",
+                    "grupos": [
+                        {
+                            "grupo": "TI-11",
+                            "cuatrimestre": 1,
+                            "materias": [
+                                "Inglés I",
+                                "Desarrollo humano y valores",
+                                "Fundamentos Matemáticos",
+                                "Fundamentos de redes",
+                                "Física",
+                                "Fundamentos de programación",
+                                "Comunicación y habilidades gerenciales"
+                            ]
+                        },
+                        {
+                            "grupo": "TI-21",
+                            "cuatrimestre": 2,
+                            "materias": [
+                                "Inglés II",
+                                "Habilidades socioemocionales y manejo de conflictos",
+                                "Cálculo diferencial",
+                                "Conmutación y enrutamiento de redes",
+                                "Probabilidad y estadística",
+                                "Programación estructurada",
+                                "Sistema Operativo"
+                            ]
+                        },
+                        {
+                            "grupo": "TI-31",
+                            "cuatrimestre": 3,
+                            "materias": [
+                                "Inglés III",
+                                "Desarrollo del pensamiento y toma de decisiones",
+                                "Cálculo integral",
+                                "Tópicos de calidad para el diseño de software",
+                                "Base de datos",
+                                "Programación orientada a objetos",
+                                "Proyecto integrador I"
+                            ]
+                        },
+                        {
+                            "grupo": "TI-51",
+                            "cuatrimestre": 4,
+                            "materias": [
+                                "Inglés IV",
+                                "Ética profesional",
+                                "Cálculo de varias variables",
+                                "Aplicaciones web",
+                                "Estructura de datos",
+                                "Desarrollo de aplicaciones móviles",
+                                "Análisis y diseño de software"
+                            ]
+                        },
+                        {
+                            "grupo": "TI-52",
+                            "cuatrimestre": 5,
+                            "materias": [
+                                "Inglés V",
+                                "Liderazgo de equipos de alto desempeño",
+                                "Ecuaciones diferenciales",
+                                "Aplicaciones web orientadas a servicios",
+                                "Bases de datos avanzadas",
+                                "Estándares y métricas para el desarrollo de software",
+                                "Proyecto integrador II"
+                            ]
+                        },
+                        {
+                            "grupo": "TI-53",
+                            "cuatrimestre": 6,
+                            "materias": [
+                                "Estadía en Técnico Superior Universitario en Desarrollo de Software Multiplataforma"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Técnico Superior Universitario en Entornos Virtuales y Negocios Digitales",
+                    "grupos": [
+                        {
+                            "grupo": "EVND-11",
+                            "cuatrimestre": 1,
+                            "materias": [
+                                "Inglés I",
+                                "Desarrollo humano y valores",
+                                "Fundamentos matemáticos",
+                                "Fundamentos de redes",
+                                "Física",
+                                "Metodología de la programación",
+                                "Comunicación y habilidades digitales"
+                            ]
+                        },
+                        {
+                            "grupo": "EVND-21",
+                            "cuatrimestre": 2,
+                            "materias": [
+                                "Inglés II",
+                                "Habilidades socioemocionales y manejo de conflictos",
+                                "Cálculo diferencial",
+                                "Conmutación y enrutamiento de redes",
+                                "Probabilidad y estadística",
+                                "Programación estructurada",
+                                "Sistemas operativos"
+                            ]
+                        },
+                        {
+                            "grupo": "EVND-31",
+                            "cuatrimestre": 3,
+                            "materias": [
+                                "Inglés III",
+                                "Desarrollo del pensamiento y toma de decisiones",
+                                "Cálculo integral",
+                                "Tópicos de calidad para el diseño de software",
+                                "Bases de datos",
+                                "Programación orientada a objetos",
+                                "Proyecto integrador I"
+                            ]
+                        },
+                        {
+                            "grupo": "EVND-41",
+                            "cuatrimestre": 4,
+                            "materias": [
+                                "Inglés IV",
+                                "Ética profesional",
+                                "Cálculo de varias variables",
+                                "Modelado y animación digital",
+                                "Diseño digital y producción audiovisual",
+                                "Aplicaciones web",
+                                "Mercadotecnia digital"
+                            ]
+                        },
+                        {
+                            "grupo": "EVND-51",
+                            "cuatrimestre": 5,
+                            "materias": [
+                                "Inglés V",
+                                "Liderazgo de equipos de alto desempeño",
+                                "Ecuaciones diferenciales",
+                                "Aplicaciones para realidad aumentada",
+                                "Aplicaciones para realidad virtual",
+                                "Frameworks para desarrollo web",
+                                "Proyecto integrador II"
+                            ]
+                        },
+                        {
+                            "grupo": "EVND-61",
+                            "cuatrimestre": 6,
+                            "materias": [
+                                "Estadía en Técnico Superior Universitario en Entornos Virtuales y Negocios Digitales"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Técnico Superior Universitario en Gastronomía",
+                    "grupos": [
+                        {
+                            "grupo": "GA-11",
+                            "cuatrimestre": 1,
+                            "materias": [
+                                "Inglés I",
+                                "Desarrollo humano y valores",
+                                "Introducción a la gastronomía",
+                                "Matemáticas aplicadas a la gastronomía",
+                                "Seguridad e higiene en los alimentos",
+                                "Bases culinarias I",
+                                "Comunicación y habilidades digitales"
+                            ]
+                        },
+                        {
+                            "grupo": "GA-21",
+                            "cuatrimestre": 2,
+                            "materias": [
+                                "Inglés II",
+                                "Habilidades socioemocionales y manejo de conflictos",
+                                "Estandarización de platillos",
+                                "Fundamentos de nutrición",
+                                "Servicio de alimentos y bebidas",
+                                "Bases culinarias II",
+                                "Panadería"
+                            ]
+                        },
+                        {
+                            "grupo": "GA-31",
+                            "cuatrimestre": 3,
+                            "materias": [
+                                "Inglés III",
+                                "Desarrollo del pensamiento y toma de decisiones",
+                                "Costos y presupuestos",
+                                "Operación de bar",
+                                "Pastelería",
+                                "Bases culinarias III",
+                                "Proyecto integrador I"
+                            ]
+                        },
+                        {
+                            "grupo": "GA-41",
+                            "cuatrimestre": 4,
+                            "materias": [
+                                "Inglés IV",
+                                "Ética profesional",
+                                "Francés I",
+                                "Administración de alimentos y bebidas",
+                                "Mercadotecnia de servicios gastronómicos",
+                                "Fundamentos de vitivinicultura",
+                                "Repostería"
+                            ]
+                        },
+                        {
+                            "grupo": "GA-51",
+                            "cuatrimestre": 5,
+                            "materias": [
+                                "Inglés V",
+                                "Liderazgo de equipos de alto desempeño",
+                                "Francés II",
+                                "Metodología de la investigación aplicada",
+                                "Logística de eventos",
+                                "Conformación de menús",
+                                "Proyecto integrador II"
+                            ]
+                        },
+                        {
+                            "grupo": "GA-61",
+                            "cuatrimestre": 6,
+                            "materias": [
+                                "Estadía en Técnico Superior Universitario en Gastronomía"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Técnico Superior Universitario en Mantenimiento Industrial",
+                    "grupos": [
+                        {
+                            "grupo": "MI-11",
+                            "cuatrimestre": 1,
+                            "materias": [
+                                "Inglés I",
+                                "Desarrollo humano y valores",
+                                "Fundamentos matemáticos",
+                                "Fundamentos de mantenimiento",
+                                "Dibujo industrial",
+                                "Seguridad industrial",
+                                "Comunicación y habilidades digitales"
+                            ]
+                        },
+                        {
+                            "grupo": "MI-21",
+                            "cuatrimestre": 2,
+                            "materias": [
+                                "Inglés II",
+                                "Habilidades socioemocionales y manejo de conflictos",
+                                "Cálculo diferencial",
+                                "Física",
+                                "Probabilidad y estadística",
+                                "Gestión del mantenimiento",
+                                "Termodinámica"
+                            ]
+                        },
+                        {
+                            "grupo": "MI-31",
+                            "cuatrimestre": 3,
+                            "materias": [
+                                "Inglés III",
+                                "Desarrollo del pensamiento y toma de decisiones",
+                                "Cálculo integral",
+                                "Sistemas eléctricos",
+                                "Máquinas y mecanismos",
+                                "Electrónica analógica",
+                                "Proyecto integrador I"
+                            ]
+                        },
+                        {
+                            "grupo": "MI-41",
+                            "cuatrimestre": 4,
+                            "materias": [
+                                "Inglés IV",
+                                "Ética profesional",
+                                "Cálculo de varias variables",
+                                "Mantenimiento a sistemas eléctricos",
+                                "Aire acondicionado y refrigeración",
+                                "Electrónica digital",
+                                "Sistemas neumáticos e hidráulicos"
+                            ]
+                        },
+                        {
+                            "grupo": "MI-51",
+                            "cuatrimestre": 5,
+                            "materias": [
+                                "Inglés V",
+                                "Liderazgo de equipos de alto desempeño",
+                                "Ecuaciones diferenciales",
+                                "Automatización de infraestructura y telecomunicaciones",
+                                "Mantenimiento a servicios industriales",
+                                "Ciencia de los materiales",
+                                "Proyecto integrador II"
+                            ]
+                        },
+                        {
+                            "grupo": "MI-61",
+                            "cuatrimestre": 6,
+                            "materias": [
+                                "Estadía en Técnico Superior Universitario en Mantenimiento a Instalaciones"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "Licenciatura": [
+                {
+                    "nombre": "Ingeniería en Mantenimiento Industrial",
+                    "grupos": [
+                        {
+                            "grupo": "INGMI-71",
+                            "cuatrimestre": 7,
+                            "materias": [
+                                "Inglés VI",
+                                "Habilidades gerenciales",
+                                "Física para ingeniería",
+                                "Administración estratégica para mantenimiento",
+                                "Tribología",
+                                "Instalaciones eléctricas",
+                                "Métodos y sistemas de trabajo"
+                            ]
+                        },
+                        {
+                            "grupo": "INGMI-81",
+                            "cuatrimestre": 8,
+                            "materias": [
+                                "Inglés VII",
+                                "Ingeniería Económica",
+                                "Mantenimiento predictivo mecánico",
+                                "Técnicas TPM y RCM",
+                                "Ensayos destructivos",
+                                "Sistemas automatizados y redes industriales",
+                                "Protocolos de operación y mantenimiento"
+                            ]
+                        },
+                        {
+                            "grupo": "INGMI-91",
+                            "cuatrimestre": 9,
+                            "materias": [
+                                "Inglés VIII",
+                                "Gestión ambiental",
+                                "Manufactura asistida por computadora",
+                                "Gestión del talento humano",
+                                "Ensayos no destructivos",
+                                "Visualización y control de procesos",
+                                "Proyecto integrador III"
+                            ]
+                        },
+                        {
+                            "grupo": "INGMI-101",
+                            "cuatrimestre": 10,
+                            "materias": [
+                                "Estadía en Licenciatura en Ingeniería en Mantenimiento Industrial"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Ingeniería en Tecnologías de la Información",
+                    "especialidades": [
+                        {
+                            "nombre": "Desarrollo de Software Multiplataforma",
+                            "grupos": [
+                                {
+                                    "grupo": "INGTI-71",
+                                    "cuatrimestre": 7,
+                                    "materias": [
+                                        "Inglés VI",
+                                        "Habilidades gerenciales",
+                                        "Formulación de proyectos de tecnología",
+                                        "Fundamentos de inteligencia artificial",
+                                        "Ética y legislación en tecnologías",
+                                        "Optativa I",
+                                        "Seguridad informática"
+                                    ]
+                                },
+                                {
+                                    "grupo": "INGTI-81",
+                                    "cuatrimestre": 8,
+                                    "materias": [
+                                        "Inglés VII",
+                                        "Electrónica digital",
+                                        "Gestión de proyectos de tecnología",
+                                        "Programación para inteligencia artificial",
+                                        "Administración de servidores",
+                                        "Optativa II",
+                                        "Informática forense"
+                                    ]
+                                },
+                                {
+                                    "grupo": "INGTI-91",
+                                    "cuatrimestre": 9,
+                                    "materias": [
+                                        "Inglés VIII",
+                                        "Internet de las cosas",
+                                        "Evaluación de proyectos de tecnología",
+                                        "Ciencia de datos",
+                                        "Tecnologías disruptivas",
+                                        "Optativa III",
+                                        "Proyecto integrador III"
+                                    ]
+                                },
+                                {
+                                    "grupo": "INGTI-101",
+                                    "cuatrimestre": 10,
+                                    "materias": [
+                                        "Estadía en Licenciatura en Ingeniería en Tecnologías de la Información e Innovación Digital"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Ingenería en Entornos Virtuales y Negocios Digitales",
+                            "grupos": [
+                                {
+                                    "grupo": "INGEVND-71",
+                                    "cuatrimestre": 7,
+                                    "materias": [
+                                        "Inglés VI",
+                                        "Habilidades gerenciales",
+                                        "Formulación de proyectos de tecnología",
+                                        "Fundamentos de inteligencia artificial",
+                                        "Ética y legislación en tecnologías de la información",
+                                        "Optativa I",
+                                        "Seguridad informática"
+                                    ]
+                                },
+                                {
+                                    "grupo": "INGEVND-81",
+                                    "cuatrimestre": 8,
+                                    "materias": [
+                                        "Inglés VII",
+                                        "Electrónica digital",
+                                        "Gestión de proyectos de tecnología",
+                                        "Programación para inteligencia artificial",
+                                        "Administración de servidores",
+                                        "Optativa II",
+                                        "Informática forense"
+                                    ]
+                                },
+                                {
+                                    "grupo": "INGEVND-91",
+                                    "cuatrimestre": 9,
+                                    "materias": [
+                                        "Inglés VIII",
+                                        "Internet de las cosas",
+                                        "Evaluación de proyectos de tecnología",
+                                        "Ciencia de datos",
+                                        "Tecnologías disruptivas",
+                                        "Optativa III",
+                                        "Proyecto integrador III"
+                                    ]
+                                },
+                                {
+                                    "grupo": "INGEVND-101",
+                                    "cuatrimestre": 10,
+                                    "materias": [
+                                        "Estadía en Licenciatura en Ingeniería en Entornos Virtuales y Negocios Digitales"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Licenciatura en Administración",
+                    "grupos": [
+                        {
+                            "grupo": "AD-71",
+                            "cuatrimestre": 7,
+                            "materias": [
+                                "Inglés VI",
+                                "Habilidades Gerenciales",
+                                "Mercadotecnia estratégica",
+                                "Tecnologías aplicadas a los negocios",
+                                "Proyectos de innovación sostenibles",
+                                "Gestión del talento humano",
+                                "Administración de la producción"
+                            ]
+                        },
+                        {
+                            "grupo": "AD-81",
+                            "cuatrimestre": 8,
+                            "materias": [
+                                "Inglés VII",
+                                "Dirección estratégica",
+                                "Investigación de operaciones",
+                                "Sistemas de la información aplicados en la organización",
+                                "Modelos de negocios",
+                                "Evaluación en el desempeño del capital humano",
+                                "Administración y gestión de la calidad"
+                            ]
+                        },
+                        {
+                            "grupo": "AD-91",
+                            "cuatrimestre": 9,
+                            "materias": [
+                                "Inglés VIII",
+                                "Comercio y logística internacional",
+                                "Consultoría empresarial",
+                                "Gestión de la propiedad intelectual",
+                                "Desarrollo en proyectos de emprendimiento social",
+                                "Finanzas corporativas",
+                                "Proyecto integrador III"
+                            ]
+                        },
+                        {
+                            "grupo": "AD-101",
+                            "cuatrimestre": 10,
+                            "materias": [
+                                "Estadía en Licenciatura en Administración"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Licenciatura en Gastronomía",
+                    "grupos": [
+                        {
+                            "grupo": "GA-71",
+                            "cuatrimestre": 7,
+                            "materias": [
+                                "Inglés VI",
+                                "Habilidades Gerenciales",
+                                "Contabilidad",
+                                "Administración de procesos gastronómicos",
+                                "Patrimonio gastronómico de México",
+                                "Cocina asiática",
+                                "Cocina mexicana I"
+                            ]
+                        },
+                        {
+                            "grupo": "GA-81",
+                            "cuatrimestre": 8,
+                            "materias": [
+                                "Inglés VII",
+                                "Planeación y administración del trabajo",
+                                "Análisis e interpretación financiera",
+                                "Bebidas destiladas mexicanas",
+                                "Ingeniería de menú",
+                                "Cocina europea",
+                                "Cocina mexicana II"
+                            ]
+                        },
+                        {
+                            "grupo": "GA-91",
+                            "cuatrimestre": 9,
+                            "materias": [
+                                "Inglés VIII",
+                                "Desarrollo de negocios gastronómicos",
+                                "Gestión de la calidad en procesos gastronómicos",
+                                "Mixología",
+                                "Cocina contemporánea",
+                                "Optativa",
+                                "Proyecto integrador III"
+                            ]
+                        },
+                        {
+                            "grupo": "GA-101",
+                            "cuatrimestre": 10,
+                            "materias": [
+                                "Estadía en Licenciatura en Ingeniería en Gastronomía"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Licenciatura en Gestión y Desarrollo Turístico",
+                    "grupos": [
+                        {
+                            "grupo": "GT-71",
+                            "cuatrimestre": 7,
+                            "materias": [
+                                "Inglés VI",
+                                "Habilidades Gerenciales",
+                                "Análisis e interpretación de información para el sector turístico",
+                                "Economía para el turismo",
+                                "Development regional",
+                                "Instrumentos para el desarrollo sustentable",
+                                "Gestión y planificación turística"
+                            ]
+                        },
+                        {
+                            "grupo": "GT-81",
+                            "cuatrimestre": 8,
+                            "materias": [
+                                "Inglés VII",
+                                "Finanzas para el turismo",
+                                "Calidad y responsabilidad social",
+                                "Desarrollo de proyectos emprendedores para el turismo I",
+                                "Mercadotecnia digital",
+                                "Consultoría turística I",
+                                "Tendencias del turismo"
+                            ]
+                        },
+                        {
+                            "grupo": "GT-91",
+                            "cuatrimestre": 9,
+                            "materias": [
+                                "Inglés VIII",
+                                "Seminario de investigación aplicada al turismo",
+                                "Destinos turísticos inteligentes",
+                                "Desarrollo de proyectos emprendedores para el turismo II",
+                                "Dirección y logística de eventos",
+                                "Consultoría turística II",
+                                "Proyecto integrador III"
+                            ]
+                        },
+                        {
+                            "grupo": "GT-101",
+                            "cuatrimestre": 10,
+                            "materias": [
+                                "Estadía en Licenciatura en Gestión y Desarrollo Turístico"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
